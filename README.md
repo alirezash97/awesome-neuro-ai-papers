@@ -26,6 +26,8 @@ Guangyu Robert Yang, Xiao-Jing Wang [**Artificial Neural Networks for Neuroscien
 
 Glaser G.I., Benjamin, S.A., Chowdhury, H.R., Perich G.M., Miller, L.E., Kording, K.P. [**Machine Learning for Neural Decoding**](https://www.eneuro.org/content/7/4/ENEURO.0506-19.2020) eNeuro (2020)
 
+Andrew Saxe, Stephanie Nelli, Christopher Summerfield [**If deep learning is the answer, then what is the question?**](https://arxiv.org/ftp/arxiv/papers/2004/2004.07580.pdf) Nature Reviews Neuroscience (2020)
+
 Jones, I. S., & Kording, K. P. [**Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees**](https://arxiv.org/abs/2009.01269) arXiv (2020)
 
 Rolnick, D., & Kording, K. [**Reverse-engineering deep ReLU networks**](http://proceedings.mlr.press/v119/rolnick20a/rolnick20a.pdf) ICML (2020)
